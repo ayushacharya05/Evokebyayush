@@ -4,8 +4,8 @@
  *
  * @package Evoke_By_Ayush
  * @author  Ayush Acharya
- * @link    https://ayushacharya5.com.np
- * @support contact@ayushacharya5.com.np
+ * @link    https://ayushacharya.info.np
+ * @support contact@ayushacharya.info.np
  *
  * Copyright (c) 2026 Ayush Acharya. All rights reserved.
  */
@@ -16,8 +16,8 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 define( 'EVOKE_VERSION', '1.0.0' );
 define( 'EVOKE_THEME_AUTHOR', 'Ayush Acharya' );
-define( 'EVOKE_SUPPORT_EMAIL', 'contact@ayushacharya5.com.np' );
-define( 'EVOKE_THEME_WEBSITE', 'https://ayushacharya5.com.np' );
+define( 'EVOKE_SUPPORT_EMAIL', 'contact@ayushacharya.info.np' );
+define( 'EVOKE_THEME_WEBSITE', 'https://evoke.ayushacharya5.com.np/' );
 
 /* -----------------------------------------------------------
  * 1.0 Theme Setup
